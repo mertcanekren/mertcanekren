@@ -14,9 +14,11 @@ I am a PHP developer From Turkey.
 <a href="https://linkedin.com/in/mertcanekren" target="_blank">LinkedIn</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanekren)
-<!--
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mertcanekren&show_icons=true&count_private=true)  
+
+<!--
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mertcanekren)  
 -->
