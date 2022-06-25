@@ -9,9 +9,9 @@ I am a PHP developer From Turkey.
 
 <h3 align="left">Connect with me:</h3>
   
-<a href="https://twitter.com/mertcanekren" target="_blank">Twitter</a>
+<a href="https://www.twitter.com/in/mertcanekren/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@mertcanekren-blue?style=flat&logo=twitter"></a>
   
-<a href="https://linkedin.com/in/mertcanekren" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mertcanekren/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mertcanekren-blue?style=flat&logo=linkedin"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanekren)
 
